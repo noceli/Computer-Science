@@ -60,9 +60,6 @@ int main (){
 
     // saída dos dados das cartas
     
-
-    // DEU ERRADO printf("Carta 1: \n, Estado: %s\n, Código: %s\n Nome da Cidade: %s\n População: %d\n Área: %f\nPIB: %f\n Número de pontos turísticos: %d \n", estadoA, codigoA, cidadeA, populacaoA, areaA, pibA, pontosA); 
-
     printf("\nCarta 1:\n");
     printf("Estado: %s\n", estadoA);
     printf("Código: %s\n", codigoA);
@@ -81,9 +78,6 @@ int main (){
     printf("Área: %f\n", areaB);
     printf("PIB: %f\n", pibB);
     printf("Número de pontos turísticos: %d \n", pontosB);
-
-
-
 
 
     return 0;
